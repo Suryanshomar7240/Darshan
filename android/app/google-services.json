@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20336022135",
+    "project_id": "darshan-94f20",
+    "storage_bucket": "darshan-94f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20336022135:android:acbf593c8c92e3ccb9ec72",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20336022135-p5oc0d8mq5fgnrg7ctv0o0ti8l7j368s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyyOJJ8_A6djo7J09Mo6UQZv0741VOujU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20336022135-p5oc0d8mq5fgnrg7ctv0o0ti8l7j368s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
