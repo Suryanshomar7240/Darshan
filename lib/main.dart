@@ -21,7 +21,10 @@ void main() async {
     ),
   );
 
-  print('Firebase initialized!');
+
+
+
+  print('Firebase!');
 
   runApp(
     MultiProvider(
